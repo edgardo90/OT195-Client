@@ -2,7 +2,7 @@
 
 Enlace del proyecto: https://ong-react.vercel.app/
 
-Enlace proyecto GitHub back: edgardo90/OT195-Server
+Enlace proyecto GitHub back:https://github.com/edgardo90/OT195-Server
 ### Admin users
 
 - Email: mconde@test.com\
